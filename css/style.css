@@ -8,9 +8,6 @@ h4 {text-align: center;}
 h5 {text-align: end;}
 h6 {text-align: center;}
 
-#pcarousel {text-align: end;}
-
-
 #react {padding-top: 0px; padding-bottom: 0.5px; padding-left: 1px; padding-right: 3px; color: white; font-weight: 500; font-size: smaller;}
 #java {padding-top: 0px; padding-bottom: 0.5px; padding-left: 1px; padding-right: 3px; font-weight: 500; font-size: smaller;}
 
@@ -22,8 +19,6 @@ h6 {text-align: center;}
 
 
 .carousel-item {opacity: .8; background-size: cover; background-position: center;}
-
-#carusel { margin-left: 750px}
 
 #padding {padding-left: 10%; padding-right: 10%;}
 
