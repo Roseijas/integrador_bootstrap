@@ -1,0 +1,28 @@
+#padding { 
+padding-right: 20%;
+padding-left: 20%;}
+
+.navbar {background-color: rgb(68, 67, 67);}
+#green {color: #25a342;}
+#white {color: white;}
+#gray {color: gray;}
+
+#azul {border-style: solid;
+    border-color: blue;
+    text-align: center;}
+#verde {border-style: solid;
+    border-color: green;
+    text-align: center;}
+#amarillo {border-style: solid;
+        border-color: rgb(219, 198, 8);
+        text-align: center;}
+
+#gris{color: gray;}
+#celeste{background-color: lightblue; color: rgb(25, 25, 105);}
+#botonBorrar{background-color: rgb(60, 133, 63); color: white;}
+#botonResumen{background-color: rgb(60, 133, 63); color: white;}
+h1 {text-align: center;}
+h5 {text-align: center; }
+
+#footer {padding: 20px;padding-left: 10%; padding-right: 10%; background-color: rgb(18, 73, 95); color: white; font-size: 12px;}
+
